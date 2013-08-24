@@ -1,4 +1,7 @@
+require 'andand'
+
 module HocrRuby
+
 
 
 end
